@@ -7,6 +7,7 @@
     "dev": "parcel src/index.html",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "type": "module",
   "keywords": [],
   "author": "Jin Sim",
   "license": "ISC",
@@ -16,5 +17,7 @@
     "parcel-bundler": "^1.12.5",
     "prettier": "^2.7.1"
   },
-  "browserslist": ["last 2 Chrome versions"]
+  "browserslist": [
+    "last 2 Chrome versions"
+  ]
 }
